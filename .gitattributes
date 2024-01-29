@@ -1,4 +1,5 @@
 /Users/perdinskifabulous/Documents/GitHub/FossilScope/Build/FossilScope.data filter=lfs diff=lfs merge=lfs -text
+/Users/perdinskifabulous/FossilScope/FossilScope/Build/FossilScope.data filter=lfs diff=lfs merge=lfs -text
 *.ico filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.css filter=lfs diff=lfs merge=lfs -text
